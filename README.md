@@ -1,1 +1,1 @@
-Proste testy E2E stron formularz aplikacji "Ankieta dziwnych pytań"
+Proste testy E2E formularza aplikacji "Ankieta dziwnych pytań"
